@@ -1,3 +1,4 @@
 first line
 second line
 third line
+The same line was added localy.
