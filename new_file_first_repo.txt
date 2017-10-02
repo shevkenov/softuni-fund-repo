@@ -2,8 +2,6 @@ first line
 second line
 third line
 The conflict has been reloved!
-<<<<<<< HEAD
 Some changes made by master branch.
-=======
 Changes made by developers in Sofia!
->>>>>>> remotes/origin/sofia-develop
+
