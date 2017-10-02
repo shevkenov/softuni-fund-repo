@@ -2,3 +2,4 @@ first line
 second line
 third line
 The conflict has been reloved!
+Some changes made by master branch.
