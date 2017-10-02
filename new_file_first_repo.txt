@@ -2,3 +2,4 @@ first line
 second line
 third line
 The conflict has been reloved!
+Changes made by developers in Sofia!
